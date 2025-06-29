@@ -1,0 +1,7 @@
+# Ignore IDE-specific files
+.idea/
+.vscode/
+__pycache__/
+venv/
+*.pyc
+*.log

@@ -3,6 +3,7 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Stars](https://img.shields.io/github/stars/onyeocha-keside/Network_Traffic_Manager?style=social)](https://github.com/onyeocha-keside/Network_Traffic_Manager/stargazers)
 
 ## Table of Contents
 - [Overview](#overview)
